@@ -48,6 +48,8 @@ This project showcases a 3D product website built using ThreeJS and infused with
 
 5. Open your browser and visit [http://localhost:5137](http://localhost:5137) to see the website in action.
 
+## Note
+
 Feel free to use this Markdown version for your README file.
 
 ## Contributing
