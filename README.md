@@ -26,13 +26,13 @@ Certainly! Here's the converted Markdown version of the installation instruction
 1. Clone the repository:
 
    ```
-   git clone https://github.com/your-username/threejs-3d-product-website.git
+   git clone https://github.com/your-username/3D-Product-Experience
    ```
 
 2. Navigate to the project directory:
 
    ```
-   cd threejs-3d-product-website
+   cd 3D-Product-Experience
    ```
 
 3. Install dependencies:
