@@ -31,7 +31,7 @@ Start the development server:
 `</code></div></div></pre></code></code></code>
 5. <code class="!whitespace-pre hljs language-shell p-4"><code class="!whitespace-pre hljs language-shell p-4"><code class="!whitespace-pre hljs language-shell p-4">
 Open your browser and visit <a href="http://localhost:3000" target="_new">http://localhost:3000</a> to see the website in action.
-</code></code><
+  </code></code>
 
 ## Usage
 - Explore the 3D product models by dragging, zooming, and rotating.
