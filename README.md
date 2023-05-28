@@ -19,7 +19,6 @@ This project showcases a 3D product website built using ThreeJS and infused with
 - Upload files for additional product customization.
 - Download the resulting product model images by clicking the download button.
 
-Certainly! Here's the converted Markdown version of the installation instructions:
 
 ## Installation
 
@@ -47,7 +46,7 @@ Certainly! Here's the converted Markdown version of the installation instruction
    npm start
    ```
 
-5. Open your browser and visit [http://localhost:3000](http://localhost:3000) to see the website in action.
+5. Open your browser and visit [http://localhost:5137](http://localhost:5137) to see the website in action.
 
 Feel free to use this Markdown version for your README file.
 
@@ -60,8 +59,6 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 4. Push your changes to your fork.
 5. Submit a pull request explaining your changes.
 
-## License
-This project is licensed under the <a href="LICENSE" target="_new">MIT License</a>.
 ## Credits
 
 - ThreeJS:
